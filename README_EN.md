@@ -186,8 +186,9 @@ If you use this code in your research, please cite:
 
 For questions or issues related to this code, please contact:
 
-- **Corresponding Author**: [Name] ([email@institution.edu])
-- **Code Developer**: [Name] ([email@institution.edu])
+- **Corresponding Author**: [Fei Li] ([lifei@swpu.edu.cn])
+- **Code Developer**: [Fei Li; Code development assisted by large language models Claude and Gemini
+for optimization and documentation] ([lifei@swpu.edu.cn])
 
 ---
 
